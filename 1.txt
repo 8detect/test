@@ -3,3 +3,4 @@ this is line 2 changed
 this is line 3 changed
 added line 4 from bob
 added line 5 from bob
+added line 6 from namphan
