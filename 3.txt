@@ -1,3 +1,3 @@
 line 3.1 changed by bob
-
+added line 3.2 by namphan
 line 3.3 by bob
